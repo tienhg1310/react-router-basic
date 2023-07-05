@@ -1,0 +1,4 @@
+@startuml
+tien -> phuong: yeu;
+tien // phuong: bat nat 
+@enduml
